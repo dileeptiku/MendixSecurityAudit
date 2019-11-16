@@ -30,6 +30,6 @@ Once the node packages are installed type:
 to compile the audit generator code.
 
 Then after compiled type:
-`node script.js`
+node --max-old-space-size=4096 scriptpages.js
 
-This will start running the script. Once the script has completed you will have an excel file named Mendix Security Document.
+This will start running the script. Once the script has completed you will have an excel file named MendixSecurityDocumentPages.xlsx.
