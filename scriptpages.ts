@@ -5,11 +5,11 @@ import { ModelSdkClient, IModel, projects, domainmodels, microflows, pages, navi
 
 import when = require('when');
 
-
-const username = "dileep.tiku@mendix.com";
-const apikey = "b06e5563-9ea2-4f99-b36f-60b6545942a6";
-const projectId = "999f5f7d-6f90-49db-a58f-5d2e6210c656";
-const projectName = "USA-eXpTransactions";
+//fill valid values for username, apikey, projectid, projectname
+const username = ""; 
+const apikey = "";
+const projectId = "";
+const projectName = "";
 const revNo = -1; // -1 for latest
 const branchName = null // null for mainline
 const wc = null;
