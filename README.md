@@ -30,6 +30,6 @@ Once the node packages are installed type:
 to compile the audit generator code.
 
 Then after compiled type:
-node --max-old-space-size=4096 scriptpages.js
+node --max-old-space-size=4096 scriptuserroles.js
 
-This will start running the script. Once the script has completed you will have an excel file named MendixSecurityDocumentPages.xlsx.
+This will start running the script. Once the script has completed you will have an excel file named MendixSecurityAuditReportforUserRoles.xlsx.
